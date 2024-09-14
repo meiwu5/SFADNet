@@ -10,13 +10,9 @@ Place the downloaded dataset in the datasets directory, and then configure the e
 
 ```
 conda create -n SFADNet python==3.8
-
 conda activate SFADNet
-
 cd SFADNet
-
 pip install -r requirement.txt
-
 python train.py
 ```
 
