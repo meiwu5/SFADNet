@@ -5,8 +5,12 @@ In recent years, traffic flow prediction has become essential for managing intel
 ### Datasets
 The dataset can be downloaded from here: 
 ### Run
-Place the downloaded dataset in the datasets directory, and then configure the environment.
+Place the downloaded dataset in the datasets directory, and then configure the environment. 
+\\
 "conda create -n SFADNet python==3.8"
+\\
 "conda activate SFADNet"
+\\
 "cd SFADNet"
+\\
 "pip install -r requirement.txt"
